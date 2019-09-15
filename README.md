@@ -1,1 +1,1 @@
-# rusweek.githube.io
+# rusweek
